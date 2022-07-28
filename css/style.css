@@ -1,11 +1,7 @@
 .img-overlay{
     filter: brightness(50%);
 }
-/* .carousel-caption-height{
-    height: 120vh;
-    min-height: 100vh;
-    
-    
-    
-
-} */
+.card-img-size{
+    width: 200px;
+    height: 150px;
+}
